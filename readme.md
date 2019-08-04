@@ -622,6 +622,7 @@
 -  [Terminal things](https://github.com/k4m4/terminals-are-sexy) - Terminal all kind of things relate.
 #####   Blockchain 
 - [Blockchain research and whitepapers](https://github.com/bellaj/Blockchain) - Blockchain research and whitepaper relate.
-##### 	Hacking
+##### 	Hacking and security research 
+- [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers,
 ##### 	Development
 ##### 	Github Useful Repo
