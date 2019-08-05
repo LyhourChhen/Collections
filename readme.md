@@ -624,6 +624,7 @@
 #####   Blockchain 
 - [Blockchain research and whitepapers](https://github.com/bellaj/Blockchain) - Blockchain research and whitepaper relate.
 ##### 	Hacking and security research 
+- [Hackin combine github](https://github.com/Hack-with-Github) - Github combine all hacking relate
 - [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
 ##### 	Development
 #####   DEV in Khmer Languages 
