@@ -2,7 +2,7 @@
 
 ## Contents
 
-
+- [LyhourChhen](#LyhourChhen)
 - [Platforms](#platforms)
 - [Programming Languages](#programming-languages)
 - [Front-End Development](#front-end-development)
@@ -27,7 +27,7 @@
 - [Decentralized Systems](#decentralized-systems)
 - [Miscellaneous](#miscellaneous)
 - [Related](#related)
-- [LyhourChhen](#LyhourChhen)
+
 
 
 ## Platforms
