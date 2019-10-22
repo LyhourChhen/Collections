@@ -36,6 +36,7 @@
 ## LyhourChhen
 
 ##### 	General 
+- [cheatsheet](https://github.com/rstacruz/cheatsheets) the best cheatsheet !
 - [react-stylist](https://github.com/styleguidist/react-styleguidist) understand about react componet style outside the scope
 - [JSx IN MD](https://github.com/mdx-js/mdx)
 - [Scroll Library for Web](https://github.com/michalsnik/aos) Tho whole set of scroll library you will be like ! 
