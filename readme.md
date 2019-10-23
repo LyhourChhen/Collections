@@ -36,6 +36,7 @@
 ## LyhourChhen
 
 ##### 	General 
+- [Guy this is so cool](https://github.com/jnv/lists) fucking another list
 - [Brave React UI](https://github.com/brave/brave-ui) the bunch of the brave UI 
 - [cheatsheet](https://github.com/rstacruz/cheatsheets) the best cheatsheet !
 - [react-stylist](https://github.com/styleguidist/react-styleguidist) understand about react componet style outside the scope
