@@ -36,6 +36,7 @@
 ## LyhourChhen
 
 ##### 	General
+- [svelte](https://svelte.dev/) the next generation of js framework
 - [React for presentation](https://github.com/FormidableLabs/spectacle) - ReactJS based Presentation Library
 - [documents ur things](https://github.com/doczjs/docz)- it never easy to document ur thing !
 - [Startup useful course](https://learnstartup.net/) useful course for startupper to klearn motherFucker
