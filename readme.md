@@ -39,6 +39,7 @@
 ## LyhourChhen
 
 ##### 	General
+- [fucking post and get](https://www.diffen.com/difference/GET-vs-POST-HTTP-Requests) understand about post nad get may not be confuse in the future !!!
 - [bash in hardway](https://github.com/Dlat/lbthw) learning the bash script in hard way !
 - [svelte](https://svelte.dev/) the next generation of js framework
 - [React for presentation](https://github.com/FormidableLabs/spectacle) - ReactJS based Presentation Library
