@@ -36,6 +36,7 @@
 ## LyhourChhen
 
 ##### 	General
+- [bash in hardway](https://github.com/Dlat/lbthw) learning the bash script in hard way !
 - [svelte](https://svelte.dev/) the next generation of js framework
 - [React for presentation](https://github.com/FormidableLabs/spectacle) - ReactJS based Presentation Library
 - [documents ur things](https://github.com/doczjs/docz)- it never easy to document ur thing !
