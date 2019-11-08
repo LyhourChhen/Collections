@@ -7,7 +7,6 @@
 **LyhourChhen's Collections**
 
 ## Contents
-- [Proper JS and proper react](https://github.com/FezVrasta/react-popper) proper the driven library around proper
 - [LyhourChhen](#LyhourChhen)
 - [Original Awesome](https://github.com/sindresorhus/awesome)
 - [React List](https://lyhourchhen.github.io/Personal-List/reactList)
@@ -40,7 +39,7 @@
 ## LyhourChhen
 
 ##### 	General
--
+- [Proper JS and proper react](https://github.com/FezVrasta/react-popper) - proper the driven library around proper
 - [KaoJS](https://github.com/koajs/koa) - Other Node middleware like express 
 - [React Base Design](https://github.com/uber/baseweb) - React components base on Base Design ! 
 - [TypeScript Awesome](https://github.com/dzharii/awesome-typescript) - Almost missing this great Awesome list of typeScript.
