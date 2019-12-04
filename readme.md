@@ -39,6 +39,7 @@
 ## LyhourChhen
 
 ##### 	General
+- [js & ts compiler run on rust](https://github.com/swc-project/swc) - alternative babal written with rust.
 - [Graph ql Construction](https://github.com/prisma-labs/nexus) - schema contrction graph
 - [typescript+react](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet) - cheatsheet for typescript + react
 - [devOP](https://github.com/Tikam02/DevOps-Guide) - devop guide
