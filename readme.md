@@ -41,6 +41,12 @@
 ##### Great repos need to check out now !!!
 - [Learn to build your own technology here](https://github.com/danistefanovic/build-your-own-x) - The docs relate demonstrate to build own  technology.
 - [Programming Book for free](https://github.com/EbookFoundation/free-programming-books) - free programming book to download.
+- [Design System](https://github.com/donnemartin/system-design-primer) - Learn how designed system here. 
+- [List all public API ](https://github.com/public-apis/public-apis) - List all public api.
+- [JS-Algorithm](https://github.com/trekhleb/javascript-algorithms) - JavaScript Algorithm.
+- [Art of Cmmand Line](https://github.com/jlevy/the-art-of-command-line) - master all command line. 
+- [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap) - roadmap to become the developer.
+
 
 ##### 	General
 - [Example Base with React and TypeScript](https://github.com/Lemoncode/react-typescript-samples) - React - TypeScript Example 
