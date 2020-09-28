@@ -38,6 +38,11 @@
 
 ## LyhourChhen
 
+##### TS
+- [Ts-belt](https://millsp.github.io/ts-toolbelt/index.html#-getting-started) - best understand about type of typescrip, ts-toolbelt 🛠
+Higher Type Safety for TypeScript. A collection of useful types.
+
+
 ##### Design Resources 
 - [Cool deisign Resources](https://github.com/sw-yx/spark-joy) - ✨😂easy ways to add design flair, user delight, and whimsy to your product.
 - [design-resources](https://github.com/bradtraversy/design-resources-for-developers) - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
