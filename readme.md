@@ -8,4 +8,4 @@
 
 
 ##### 	Startup
-- [awesome-startup](https://github.com/KrishMunot/awesome-startup) - more about startup within awesomes.
+- [awesome-startup](https://github.com/KrishMunot/awesome-startup) - 😎 All the required resources to build your own startup.
